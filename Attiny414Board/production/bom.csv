@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D2, D4",0805,2,power Schottky diode,
+J1,PinHeader_1x06_P2.54mm_Vertical,1,programming connector,
+J2,PinHeader_1x10_P2.54mm_Vertical,1,right connector,
+J4,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
+"JP1, JP2",SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,2,Jumper_2_Bridged,
+"L1, L2",0805,2,LED,
+"R1, R2",0805,2,250 ohm,
+R3,0805,1,470 ohm,
+U1,SOIC-14_3.9x8.7mm_P1.27mm,1,ATtiny414-SS,
