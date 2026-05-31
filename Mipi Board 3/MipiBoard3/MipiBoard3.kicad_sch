@@ -6515,6 +6515,12 @@
 		(uuid "1e1df899-b603-402c-a2b6-1602c3c5c944")
 	)
 	(junction
+		(at 492.76 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f38517c-b5be-4777-a68f-a8b136ebeb31")
+	)
+	(junction
 		(at 204.47 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7139,6 +7145,12 @@
 		(uuid "a33ca361-5505-4ae1-a701-77977060e3ab")
 	)
 	(junction
+		(at 491.49 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a39cf08c-f9e9-4c33-b721-8d1493ce9055")
+	)
+	(junction
 		(at 321.31 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7197,6 +7209,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b649ae9c-baf3-4578-83a6-9ca2a19b6074")
+	)
+	(junction
+		(at 491.49 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b790f99f-aa46-4ccb-b259-47ed5cccb0b9")
 	)
 	(junction
 		(at 204.47 254)
@@ -7670,7 +7688,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 95.25) (xy 469.9 95.25)
+			(xy 471.17 53.34) (xy 473.71 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7787,16 +7805,6 @@
 			(type default)
 		)
 		(uuid "0a73d5f5-0da7-4c3f-a9e0-5f8aa57527f5")
-	)
-	(wire
-		(pts
-			(xy 485.14 95.25) (xy 486.41 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a7740bc-b9c3-49f0-97cc-918c2bdc908e")
 	)
 	(wire
 		(pts
@@ -8580,16 +8588,6 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 196.85) (xy 501.65 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20686fb1-42a2-4624-ba79-c9e2ba7736b9")
-	)
-	(wire
-		(pts
 			(xy 120.65 83.82) (xy 125.73 83.82)
 		)
 		(stroke
@@ -8960,6 +8958,16 @@
 	)
 	(wire
 		(pts
+			(xy 491.49 60.96) (xy 491.49 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cc747fc-242d-4b72-a547-849a6ee4ac1f")
+	)
+	(wire
+		(pts
 			(xy 142.24 226.06) (xy 137.16 226.06)
 		)
 		(stroke
@@ -9267,6 +9275,16 @@
 			(type default)
 		)
 		(uuid "34894ef0-d599-4ea8-a1ce-3c026a6d6a0e")
+	)
+	(wire
+		(pts
+			(xy 490.22 74.93) (xy 492.76 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a546fb-1d67-47c0-ad61-bdd175a25b34")
 	)
 	(wire
 		(pts
@@ -10450,6 +10468,16 @@
 	)
 	(wire
 		(pts
+			(xy 491.49 53.34) (xy 494.03 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d1c9ddb-1442-42eb-8d57-8f6fb7902599")
+	)
+	(wire
+		(pts
 			(xy 226.06 228.6) (xy 220.98 228.6)
 		)
 		(stroke
@@ -11130,6 +11158,16 @@
 	)
 	(wire
 		(pts
+			(xy 492.76 74.93) (xy 496.57 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "744e527b-c8ab-406d-9d8b-7df2b0183f0e")
+	)
+	(wire
+		(pts
 			(xy 227.33 78.74) (xy 222.25 78.74)
 		)
 		(stroke
@@ -11390,7 +11428,7 @@
 	)
 	(wire
 		(pts
-			(xy 480.06 196.85) (xy 483.87 196.85)
+			(xy 469.9 34.29) (xy 473.71 34.29)
 		)
 		(stroke
 			(width 0)
@@ -12510,6 +12548,16 @@
 	)
 	(wire
 		(pts
+			(xy 488.95 53.34) (xy 491.49 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3265f9-abaa-4099-9526-18ed5f0b5ada")
+	)
+	(wire
+		(pts
 			(xy 138.43 88.9) (xy 142.24 88.9)
 		)
 		(stroke
@@ -12720,16 +12768,6 @@
 	)
 	(wire
 		(pts
-			(xy 509.27 196.85) (xy 513.08 196.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2b0f7bc-9b02-4773-b0d5-e8ed121a9cb4")
-	)
-	(wire
-		(pts
 			(xy 57.15 176.53) (xy 57.15 173.99)
 		)
 		(stroke
@@ -12797,16 +12835,6 @@
 			(type default)
 		)
 		(uuid "a430cd81-42eb-4b52-9486-36255a8c9fc6")
-	)
-	(wire
-		(pts
-			(xy 497.84 298.45) (xy 501.65 298.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5220219-2ace-4738-974c-293894c58c5a")
 	)
 	(wire
 		(pts
@@ -13077,6 +13105,16 @@
 			(type default)
 		)
 		(uuid "af222a3b-805a-4497-9f05-219e4b2aa45f")
+	)
+	(wire
+		(pts
+			(xy 492.76 82.55) (xy 492.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afa98ed1-7e1a-4430-a458-59e439ebc27d")
 	)
 	(wire
 		(pts
@@ -13390,6 +13428,16 @@
 	)
 	(wire
 		(pts
+			(xy 491.49 34.29) (xy 494.03 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd0cf04a-4d0d-48cc-af11-6fd6d37f39f5")
+	)
+	(wire
+		(pts
 			(xy 33.02 179.07) (xy 38.1 179.07)
 		)
 		(stroke
@@ -13467,6 +13515,16 @@
 			(type default)
 		)
 		(uuid "beb6fb0c-9afb-4592-b104-591f7a852436")
+	)
+	(wire
+		(pts
+			(xy 491.49 41.91) (xy 491.49 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beb99ad5-ce29-4d57-933d-87c48f3a5ba6")
 	)
 	(wire
 		(pts
@@ -14180,16 +14238,6 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 95.25) (xy 495.3 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d296e078-d420-4038-99c1-d9055a974307")
-	)
-	(wire
-		(pts
 			(xy 33.02 36.83) (xy 33.02 39.37)
 		)
 		(stroke
@@ -14427,6 +14475,16 @@
 			(type default)
 		)
 		(uuid "dc499d64-434a-4722-b564-f88b30badef4")
+	)
+	(wire
+		(pts
+			(xy 488.95 34.29) (xy 491.49 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcdef51b-01f7-42d6-84e4-dc7aeb2d9361")
 	)
 	(wire
 		(pts
@@ -15050,7 +15108,7 @@
 	)
 	(wire
 		(pts
-			(xy 477.52 298.45) (xy 482.6 298.45)
+			(xy 469.9 74.93) (xy 474.98 74.93)
 		)
 		(stroke
 			(width 0)
@@ -15637,16 +15695,6 @@
 			(type default)
 		)
 		(uuid "ff944cda-c151-47a7-84ec-8c10a4999970")
-	)
-	(wire
-		(pts
-			(xy 509.27 298.45) (xy 514.35 298.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffd27498-e0b4-4ffb-8d49-e03845d678a4")
 	)
 	(label "CAM2_D0_P"
 		(at 381 34.29 180)
@@ -23574,7 +23622,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 514.35 298.45 270)
+		(at 496.57 74.93 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23584,7 +23632,7 @@
 		(dnp no)
 		(uuid "01456efa-774e-4d88-9eb0-b5bb433817c2")
 		(property "Reference" "#PWR029"
-			(at 510.54 298.45 0)
+			(at 492.76 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23595,7 +23643,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 518.16 294.894 0)
+			(at 500.38 71.374 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23606,7 +23654,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 514.35 298.45 0)
+			(at 496.57 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23617,7 +23665,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 514.35 298.45 0)
+			(at 496.57 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23628,7 +23676,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 514.35 298.45 0)
+			(at 496.57 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23684,7 +23732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 379.73 90)
 			(hide yes)
 			(show_name no)
@@ -23728,122 +23776,6 @@
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "R36")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Comparator:LM339")
-		(at 410.21 327.66 0)
-		(unit 2)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b443960-18d6-4958-a9ba-13633e6ed1c1")
-		(property "Reference" "U3"
-			(at 410.21 317.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM339"
-			(at 410.21 320.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 325.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 411.48 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 410.21 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "7"
-			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d3")
-		)
-		(pin "14"
-			(uuid "f4e60921-4b94-4c91-b795-990ece264ea2")
-		)
-		(pin "3"
-			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a14")
-		)
-		(pin "11"
-			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb515")
-		)
-		(pin "6"
-			(uuid "f0391c7d-e599-4237-b388-48ca13183171")
-		)
-		(pin "1"
-			(uuid "66a03261-65df-4063-bc22-79ed3a2596ac")
-		)
-		(pin "5"
-			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c2")
-		)
-		(pin "10"
-			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc7")
-		)
-		(pin "13"
-			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c66")
-		)
-		(pin "12"
-			(uuid "3ce86704-2160-42bb-93ff-64afb9a403ce")
-		)
-		(pin "4"
-			(uuid "b9334c95-00d3-42fa-974a-7a908da82ab8")
-		)
-		(pin "9"
-			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0b")
-		)
-		(pin "2"
-			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c70")
-		)
-		(pin "8"
-			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4b")
-		)
-		(instances
-			(project "MipiBoard3"
-				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U3")
-					(unit 2)
 				)
 			)
 		)
@@ -24164,122 +24096,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Comparator:LM339")
-		(at 410.21 302.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ff341ec-29ec-47e7-a111-4e10cbd4c071")
-		(property "Reference" "U3"
-			(at 410.21 292.1 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM339"
-			(at 410.21 294.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 299.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 411.48 297.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 410.21 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "7"
-			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d3")
-		)
-		(pin "14"
-			(uuid "f4e60921-4b94-4c91-b795-990ece264ea2")
-		)
-		(pin "3"
-			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a14")
-		)
-		(pin "11"
-			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb515")
-		)
-		(pin "6"
-			(uuid "f0391c7d-e599-4237-b388-48ca13183171")
-		)
-		(pin "1"
-			(uuid "66a03261-65df-4063-bc22-79ed3a2596ac")
-		)
-		(pin "5"
-			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c2")
-		)
-		(pin "10"
-			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc7")
-		)
-		(pin "13"
-			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c66")
-		)
-		(pin "12"
-			(uuid "3ce86704-2160-42bb-93ff-64afb9a403ce")
-		)
-		(pin "4"
-			(uuid "b9334c95-00d3-42fa-974a-7a908da82ab8")
-		)
-		(pin "9"
-			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0b")
-		)
-		(pin "2"
-			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c70")
-		)
-		(pin "8"
-			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4b")
-		)
-		(instances
-			(project "MipiBoard3"
-				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 342.9 325.12 270)
 		(unit 1)
@@ -24471,7 +24287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 219.71 90)
 			(hide yes)
 			(show_name no)
@@ -24521,7 +24337,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 490.22 95.25 270)
+		(at 491.49 57.15 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24532,27 +24348,29 @@
 		(fields_autoplaced yes)
 		(uuid "14983cc9-8f85-4e59-8c22-ad112c2ebe35")
 		(property "Reference" "C1"
-			(at 490.22 87.63 90)
+			(at 495.3 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "C"
-			(at 490.22 90.17 90)
+			(at 495.3 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 486.41 96.2152 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 490.5248 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24563,7 +24381,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 490.22 95.25 0)
+			(at 491.49 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24574,7 +24392,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 490.22 95.25 0)
+			(at 491.49 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24601,7 +24419,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 480.06 196.85 270)
+		(at 469.9 34.29 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24612,7 +24430,7 @@
 		(fields_autoplaced yes)
 		(uuid "16f63867-4eaf-4aab-b9fd-4afaf06419f3")
 		(property "Reference" "#PWR028"
-			(at 473.71 196.85 0)
+			(at 463.55 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24623,7 +24441,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 476.25 196.8499 90)
+			(at 466.09 34.2899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24634,7 +24452,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 480.06 196.85 0)
+			(at 469.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24645,7 +24463,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 480.06 196.85 0)
+			(at 469.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24656,7 +24474,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 480.06 196.85 0)
+			(at 469.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24915,6 +24733,122 @@
 		)
 	)
 	(symbol
+		(lib_id "Comparator:LM339")
+		(at 410.21 327.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1ba1b750-e0c7-44c5-a72c-fe4df65be886")
+		(property "Reference" "U2"
+			(at 410.21 317.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM339"
+			(at 410.21 320.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 408.94 325.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
+			(at 411.48 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 410.21 327.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ddd46dd-75ed-4a26-b664-491250327d25")
+		)
+		(pin "5"
+			(uuid "caf6ef39-8b6f-4e6d-912f-78c3eb13bab4")
+		)
+		(pin "1"
+			(uuid "32c28bf7-22b6-490a-be89-ef3f6b387dc3")
+		)
+		(pin "6"
+			(uuid "e35c571c-5fd9-443c-9d2f-08edbf00e2fc")
+		)
+		(pin "7"
+			(uuid "c93f99d0-9c01-44f6-9f68-e2a8e88f3c6f")
+		)
+		(pin "4"
+			(uuid "e5a55cd9-7cbb-4d89-aa14-57820cc46656")
+		)
+		(pin "10"
+			(uuid "1ac75bd9-6f71-4627-bc15-2b96ba7ef69a")
+		)
+		(pin "11"
+			(uuid "c2cb2fd0-83d0-4918-87c0-65709ebe5238")
+		)
+		(pin "13"
+			(uuid "afbbfbad-dd07-4fe6-a26e-9c580f6b72b1")
+		)
+		(pin "3"
+			(uuid "95f5652c-fbd0-42a5-9c85-c58f719f4c58")
+		)
+		(pin "12"
+			(uuid "5ef0cbae-3fac-47b9-b7fe-72a049f2db18")
+		)
+		(pin "14"
+			(uuid "cc885b4e-dc95-44a9-a043-8ec5aa63b997")
+		)
+		(pin "9"
+			(uuid "a18190a0-c617-4bcc-8473-abb553444b9d")
+		)
+		(pin "8"
+			(uuid "60c0e601-b462-4e9f-9acd-29b8aeaa366a")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 402.59 33.02 0)
 		(unit 1)
@@ -24994,7 +24928,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 477.52 298.45 270)
+		(at 469.9 74.93 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25005,7 +24939,7 @@
 		(fields_autoplaced yes)
 		(uuid "202a6d34-756c-4768-b809-ee75704c4328")
 		(property "Reference" "#PWR030"
-			(at 471.17 298.45 0)
+			(at 463.55 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25016,7 +24950,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 473.71 298.4499 90)
+			(at 466.09 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25027,7 +24961,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 477.52 298.45 0)
+			(at 469.9 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25038,7 +24972,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 477.52 298.45 0)
+			(at 469.9 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25049,7 +24983,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 477.52 298.45 0)
+			(at 469.9 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25066,6 +25000,84 @@
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 492.76 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21a31f7f-16f0-4e47-90d8-d41464a87ac3")
+		(property "Reference" "#PWR045"
+			(at 492.76 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 492.76 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 492.76 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 492.76 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 492.76 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "219f897d-6ee2-4626-971b-65c65e790a4a")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -25105,7 +25117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 294.64 90)
 			(hide yes)
 			(show_name no)
@@ -25343,7 +25355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 410.5148 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -25387,122 +25399,6 @@
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "C4")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Comparator:LM339")
-		(at 410.21 144.78 0)
-		(unit 3)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2da5f681-a01f-4c79-b094-a707f39adf92")
-		(property "Reference" "U2"
-			(at 410.21 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM339"
-			(at 410.21 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 411.48 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 410.21 144.78 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "9"
-			(uuid "4ecf66da-9b70-467c-b150-dcfb19620570")
-		)
-		(pin "3"
-			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de873")
-		)
-		(pin "13"
-			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4ad")
-		)
-		(pin "6"
-			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642945")
-		)
-		(pin "4"
-			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4b")
-		)
-		(pin "5"
-			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd60")
-		)
-		(pin "11"
-			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1a")
-		)
-		(pin "8"
-			(uuid "813d132b-f9a1-4447-90a7-383b869cc887")
-		)
-		(pin "7"
-			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3d")
-		)
-		(pin "1"
-			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a3")
-		)
-		(pin "10"
-			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f4")
-		)
-		(pin "12"
-			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae35")
-		)
-		(pin "14"
-			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c2e")
-		)
-		(pin "2"
-			(uuid "1046107f-38d1-40ee-aa77-4479f357060b")
-		)
-		(instances
-			(project "MipiBoard3"
-				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U2")
-					(unit 3)
 				)
 			)
 		)
@@ -25779,7 +25675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 193.04 90)
 			(hide yes)
 			(show_name no)
@@ -25907,7 +25803,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 491.49 199.39 270)
+		(at 481.33 36.83 270)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25918,7 +25814,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d2d74c6-643e-4930-960a-a0edc8bd38b5")
 		(property "Reference" "U1"
-			(at 491.49 191.77 90)
+			(at 481.33 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25928,7 +25824,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 491.49 194.31 90)
+			(at 481.33 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25937,8 +25833,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 494.03 198.12 0)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 483.87 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25949,7 +25845,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 496.57 200.66 0)
+			(at 486.41 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25960,7 +25856,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 491.49 199.39 0)
+			(at 481.33 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26101,7 +25997,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 513.08 196.85 270)
+		(at 494.03 34.29 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26111,7 +26007,7 @@
 		(dnp no)
 		(uuid "3e7d99c1-766a-40ed-90ce-2780d8402402")
 		(property "Reference" "#PWR027"
-			(at 509.27 196.85 0)
+			(at 490.22 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26122,7 +26018,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 516.89 193.294 0)
+			(at 497.84 30.734 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26133,7 +26029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 513.08 196.85 0)
+			(at 494.03 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26144,7 +26040,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 513.08 196.85 0)
+			(at 494.03 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26155,7 +26051,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 513.08 196.85 0)
+			(at 494.03 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26342,7 +26238,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 247.65 0)
-		(unit 3)
+		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26371,7 +26267,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -26405,52 +26301,52 @@
 			)
 		)
 		(pin "1"
-			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa281")
+			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa282")
 		)
 		(pin "13"
-			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b6")
+			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b7")
 		)
 		(pin "5"
-			(uuid "5523520b-57ca-497d-bd48-d3decc95757a")
+			(uuid "5523520b-57ca-497d-bd48-d3decc95757b")
 		)
 		(pin "8"
-			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f0")
+			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f1")
 		)
 		(pin "10"
-			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113b")
+			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113c")
 		)
 		(pin "4"
-			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d3")
+			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d4")
 		)
 		(pin "11"
-			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c6")
+			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c7")
 		)
 		(pin "14"
-			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63c")
+			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63d")
 		)
 		(pin "3"
-			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f5")
+			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f6")
 		)
 		(pin "6"
-			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a79")
+			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a7a")
 		)
 		(pin "9"
-			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1a")
+			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1b")
 		)
 		(pin "12"
-			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd79")
+			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd7a")
 		)
 		(pin "2"
-			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044c")
+			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044d")
 		)
 		(pin "7"
-			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd4")
+			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd5")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U1")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -26489,7 +26385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 320.04 90)
 			(hide yes)
 			(show_name no)
@@ -26540,7 +26436,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 273.05 0)
-		(unit 4)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26569,7 +26465,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -26603,52 +26499,52 @@
 			)
 		)
 		(pin "1"
-			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa281")
+			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa283")
 		)
 		(pin "13"
-			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b6")
+			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b8")
 		)
 		(pin "5"
-			(uuid "5523520b-57ca-497d-bd48-d3decc95757a")
+			(uuid "5523520b-57ca-497d-bd48-d3decc95757c")
 		)
 		(pin "8"
-			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f0")
+			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f2")
 		)
 		(pin "10"
-			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113b")
+			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113d")
 		)
 		(pin "4"
-			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d3")
+			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d5")
 		)
 		(pin "11"
-			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c6")
+			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c8")
 		)
 		(pin "14"
-			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63c")
+			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63e")
 		)
 		(pin "3"
-			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f5")
+			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f7")
 		)
 		(pin "6"
-			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a79")
+			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a7b")
 		)
 		(pin "9"
-			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1a")
+			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1c")
 		)
 		(pin "12"
-			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd79")
+			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd7b")
 		)
 		(pin "2"
-			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044c")
+			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044e")
 		)
 		(pin "7"
-			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd4")
+			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd6")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U1")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
@@ -27049,7 +26945,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 224.79 0)
-		(unit 2)
+		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27078,7 +26974,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -27112,52 +27008,52 @@
 			)
 		)
 		(pin "1"
-			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa281")
+			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa284")
 		)
 		(pin "13"
-			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b6")
+			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b9")
 		)
 		(pin "5"
-			(uuid "5523520b-57ca-497d-bd48-d3decc95757a")
+			(uuid "5523520b-57ca-497d-bd48-d3decc95757d")
 		)
 		(pin "8"
-			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f0")
+			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f3")
 		)
 		(pin "10"
-			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113b")
+			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113e")
 		)
 		(pin "4"
-			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d3")
+			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d6")
 		)
 		(pin "11"
-			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c6")
+			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c9")
 		)
 		(pin "14"
-			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63c")
+			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63f")
 		)
 		(pin "3"
-			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f5")
+			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f8")
 		)
 		(pin "6"
-			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a79")
+			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a7c")
 		)
 		(pin "9"
-			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1a")
+			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1d")
 		)
 		(pin "12"
-			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd79")
+			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd7c")
 		)
 		(pin "2"
-			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044c")
+			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044f")
 		)
 		(pin "7"
-			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd4")
+			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd7")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U1")
-					(unit 2)
+					(unit 4)
 				)
 			)
 		)
@@ -27236,122 +27132,6 @@
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "#PWR016")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Comparator:LM339")
-		(at 477.52 97.79 270)
-		(unit 5)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5664568a-dc9d-4527-8806-a5d352c590b0")
-		(property "Reference" "U2"
-			(at 477.52 90.17 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM339"
-			(at 477.52 92.71 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 480.06 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 482.6 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 477.52 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "9"
-			(uuid "4ecf66da-9b70-467c-b150-dcfb19620570")
-		)
-		(pin "3"
-			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de873")
-		)
-		(pin "13"
-			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4ad")
-		)
-		(pin "6"
-			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642945")
-		)
-		(pin "4"
-			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4b")
-		)
-		(pin "5"
-			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd60")
-		)
-		(pin "11"
-			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1a")
-		)
-		(pin "8"
-			(uuid "813d132b-f9a1-4447-90a7-383b869cc887")
-		)
-		(pin "7"
-			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3d")
-		)
-		(pin "1"
-			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a3")
-		)
-		(pin "10"
-			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f4")
-		)
-		(pin "12"
-			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae35")
-		)
-		(pin "14"
-			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c2e")
-		)
-		(pin "2"
-			(uuid "1046107f-38d1-40ee-aa77-4479f357060b")
-		)
-		(instances
-			(project "MipiBoard3"
-				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U2")
-					(unit 5)
 				)
 			)
 		)
@@ -27472,7 +27252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -27516,6 +27296,122 @@
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "R28")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Comparator:LM339")
+		(at 410.21 144.78 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60da5b6f-45e5-4ab8-a53e-49bb7036b4d9")
+		(property "Reference" "U2"
+			(at 410.21 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM339"
+			(at 410.21 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 408.94 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
+			(at 411.48 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 410.21 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ddd46dd-75ed-4a26-b664-491250327d25")
+		)
+		(pin "5"
+			(uuid "caf6ef39-8b6f-4e6d-912f-78c3eb13bab4")
+		)
+		(pin "1"
+			(uuid "32c28bf7-22b6-490a-be89-ef3f6b387dc3")
+		)
+		(pin "6"
+			(uuid "e35c571c-5fd9-443c-9d2f-08edbf00e2fc")
+		)
+		(pin "7"
+			(uuid "c93f99d0-9c01-44f6-9f68-e2a8e88f3c6f")
+		)
+		(pin "4"
+			(uuid "e5a55cd9-7cbb-4d89-aa14-57820cc46656")
+		)
+		(pin "10"
+			(uuid "1ac75bd9-6f71-4627-bc15-2b96ba7ef69a")
+		)
+		(pin "11"
+			(uuid "c2cb2fd0-83d0-4918-87c0-65709ebe5238")
+		)
+		(pin "13"
+			(uuid "afbbfbad-dd07-4fe6-a26e-9c580f6b72b1")
+		)
+		(pin "3"
+			(uuid "95f5652c-fbd0-42a5-9c85-c58f719f4c58")
+		)
+		(pin "12"
+			(uuid "5ef0cbae-3fac-47b9-b7fe-72a049f2db18")
+		)
+		(pin "14"
+			(uuid "cc885b4e-dc95-44a9-a043-8ec5aa63b997")
+		)
+		(pin "9"
+			(uuid "a18190a0-c617-4bcc-8473-abb553444b9d")
+		)
+		(pin "8"
+			(uuid "60c0e601-b462-4e9f-9acd-29b8aeaa366a")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "U2")
+					(unit 3)
 				)
 			)
 		)
@@ -27594,6 +27490,122 @@
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "#PWR035")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Comparator:LM339")
+		(at 410.21 170.18 0)
+		(unit 4)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6111ae99-03cf-4bf3-8c92-ddecf3cba690")
+		(property "Reference" "U2"
+			(at 410.21 160.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM339"
+			(at 410.21 162.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 408.94 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
+			(at 411.48 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 410.21 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ddd46dd-75ed-4a26-b664-491250327d25")
+		)
+		(pin "5"
+			(uuid "caf6ef39-8b6f-4e6d-912f-78c3eb13bab4")
+		)
+		(pin "1"
+			(uuid "32c28bf7-22b6-490a-be89-ef3f6b387dc3")
+		)
+		(pin "6"
+			(uuid "e35c571c-5fd9-443c-9d2f-08edbf00e2fc")
+		)
+		(pin "7"
+			(uuid "c93f99d0-9c01-44f6-9f68-e2a8e88f3c6f")
+		)
+		(pin "4"
+			(uuid "e5a55cd9-7cbb-4d89-aa14-57820cc46656")
+		)
+		(pin "10"
+			(uuid "1ac75bd9-6f71-4627-bc15-2b96ba7ef69a")
+		)
+		(pin "11"
+			(uuid "c2cb2fd0-83d0-4918-87c0-65709ebe5238")
+		)
+		(pin "13"
+			(uuid "afbbfbad-dd07-4fe6-a26e-9c580f6b72b1")
+		)
+		(pin "3"
+			(uuid "95f5652c-fbd0-42a5-9c85-c58f719f4c58")
+		)
+		(pin "12"
+			(uuid "5ef0cbae-3fac-47b9-b7fe-72a049f2db18")
+		)
+		(pin "14"
+			(uuid "cc885b4e-dc95-44a9-a043-8ec5aa63b997")
+		)
+		(pin "9"
+			(uuid "a18190a0-c617-4bcc-8473-abb553444b9d")
+		)
+		(pin "8"
+			(uuid "60c0e601-b462-4e9f-9acd-29b8aeaa366a")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "U2")
+					(unit 4)
 				)
 			)
 		)
@@ -27682,7 +27694,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 467.36 95.25 270)
+		(at 471.17 53.34 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27693,7 +27705,7 @@
 		(fields_autoplaced yes)
 		(uuid "62f78fbe-3913-49db-987d-f4c4182f08e5")
 		(property "Reference" "#PWR025"
-			(at 461.01 95.25 0)
+			(at 464.82 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27704,7 +27716,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 463.55 95.2499 90)
+			(at 467.36 53.3399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27715,7 +27727,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 467.36 95.25 0)
+			(at 471.17 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27726,7 +27738,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 467.36 95.25 0)
+			(at 471.17 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27737,7 +27749,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 467.36 95.25 0)
+			(at 471.17 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27762,7 +27774,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 123.19 0)
-		(unit 2)
+		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27771,7 +27783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62fe39f3-9ec8-4de1-98a2-9ecc4f451a8a")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 410.21 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27791,7 +27803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -27825,52 +27837,168 @@
 			)
 		)
 		(pin "9"
-			(uuid "4ecf66da-9b70-467c-b150-dcfb19620570")
+			(uuid "4ecf66da-9b70-467c-b150-dcfb19620572")
 		)
 		(pin "3"
-			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de873")
+			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de875")
 		)
 		(pin "13"
-			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4ad")
+			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4af")
 		)
 		(pin "6"
-			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642945")
+			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642947")
 		)
 		(pin "4"
-			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4b")
+			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4d")
 		)
 		(pin "5"
-			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd60")
+			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd62")
 		)
 		(pin "11"
-			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1a")
+			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1c")
 		)
 		(pin "8"
-			(uuid "813d132b-f9a1-4447-90a7-383b869cc887")
+			(uuid "813d132b-f9a1-4447-90a7-383b869cc889")
 		)
 		(pin "7"
-			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3d")
+			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3f")
 		)
 		(pin "1"
-			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a3")
+			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a5")
 		)
 		(pin "10"
-			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f4")
+			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f6")
 		)
 		(pin "12"
-			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae35")
+			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae37")
 		)
 		(pin "14"
-			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c2e")
+			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c30")
 		)
 		(pin "2"
-			(uuid "1046107f-38d1-40ee-aa77-4479f357060b")
+			(uuid "1046107f-38d1-40ee-aa77-4479f357060d")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "U3")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Comparator:LM339")
+		(at 481.33 55.88 270)
+		(unit 5)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63eac374-faea-465c-ac54-fafc9f005508")
+		(property "Reference" "U2"
+			(at 481.33 48.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM339"
+			(at 481.33 50.8 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 483.87 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
+			(at 486.41 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 481.33 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ddd46dd-75ed-4a26-b664-491250327d25")
+		)
+		(pin "5"
+			(uuid "caf6ef39-8b6f-4e6d-912f-78c3eb13bab4")
+		)
+		(pin "1"
+			(uuid "32c28bf7-22b6-490a-be89-ef3f6b387dc3")
+		)
+		(pin "6"
+			(uuid "e35c571c-5fd9-443c-9d2f-08edbf00e2fc")
+		)
+		(pin "7"
+			(uuid "c93f99d0-9c01-44f6-9f68-e2a8e88f3c6f")
+		)
+		(pin "4"
+			(uuid "e5a55cd9-7cbb-4d89-aa14-57820cc46656")
+		)
+		(pin "10"
+			(uuid "1ac75bd9-6f71-4627-bc15-2b96ba7ef69a")
+		)
+		(pin "11"
+			(uuid "c2cb2fd0-83d0-4918-87c0-65709ebe5238")
+		)
+		(pin "13"
+			(uuid "afbbfbad-dd07-4fe6-a26e-9c580f6b72b1")
+		)
+		(pin "3"
+			(uuid "95f5652c-fbd0-42a5-9c85-c58f719f4c58")
+		)
+		(pin "12"
+			(uuid "5ef0cbae-3fac-47b9-b7fe-72a049f2db18")
+		)
+		(pin "14"
+			(uuid "cc885b4e-dc95-44a9-a043-8ec5aa63b997")
+		)
+		(pin "9"
+			(uuid "a18190a0-c617-4bcc-8473-abb553444b9d")
+		)
+		(pin "8"
+			(uuid "60c0e601-b462-4e9f-9acd-29b8aeaa366a")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U2")
-					(unit 2)
+					(unit 5)
 				)
 			)
 		)
@@ -28225,7 +28353,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 353.06 90)
 			(hide yes)
 			(show_name no)
@@ -29179,7 +29307,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -29230,7 +29358,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 360.68 0)
-		(unit 3)
+		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29259,7 +29387,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 358.14 0)
 			(hide yes)
 			(show_name no)
@@ -29293,52 +29421,52 @@
 			)
 		)
 		(pin "7"
-			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d3")
+			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d5")
 		)
 		(pin "14"
-			(uuid "f4e60921-4b94-4c91-b795-990ece264ea2")
+			(uuid "f4e60921-4b94-4c91-b795-990ece264ea4")
 		)
 		(pin "3"
-			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a14")
+			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a16")
 		)
 		(pin "11"
-			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb515")
+			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb517")
 		)
 		(pin "6"
-			(uuid "f0391c7d-e599-4237-b388-48ca13183171")
+			(uuid "f0391c7d-e599-4237-b388-48ca13183173")
 		)
 		(pin "1"
-			(uuid "66a03261-65df-4063-bc22-79ed3a2596ac")
+			(uuid "66a03261-65df-4063-bc22-79ed3a2596ae")
 		)
 		(pin "5"
-			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c2")
+			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c4")
 		)
 		(pin "10"
-			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc7")
+			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc9")
 		)
 		(pin "13"
-			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c66")
+			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c68")
 		)
 		(pin "12"
-			(uuid "3ce86704-2160-42bb-93ff-64afb9a403ce")
+			(uuid "3ce86704-2160-42bb-93ff-64afb9a403d0")
 		)
 		(pin "4"
-			(uuid "b9334c95-00d3-42fa-974a-7a908da82ab8")
+			(uuid "b9334c95-00d3-42fa-974a-7a908da82aba")
 		)
 		(pin "9"
-			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0b")
+			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0d")
 		)
 		(pin "2"
-			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c70")
+			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c72")
 		)
 		(pin "8"
-			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4b")
+			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4d")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U3")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -29581,7 +29709,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 495.3 95.25 270)
+		(at 494.03 53.34 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29591,7 +29719,7 @@
 		(dnp no)
 		(uuid "9af1506b-b697-4053-8dcd-e25b8de2bc2f")
 		(property "Reference" "#PWR026"
-			(at 491.49 95.25 0)
+			(at 490.22 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29602,7 +29730,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 499.11 91.694 0)
+			(at 497.84 49.784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29613,7 +29741,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 495.3 95.25 0)
+			(at 494.03 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29624,7 +29752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 495.3 95.25 0)
+			(at 494.03 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29635,7 +29763,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 495.3 95.25 0)
+			(at 494.03 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29691,7 +29819,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -29742,7 +29870,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 386.08 0)
-		(unit 4)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29771,7 +29899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 383.54 0)
 			(hide yes)
 			(show_name no)
@@ -29805,52 +29933,52 @@
 			)
 		)
 		(pin "7"
-			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d3")
+			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d6")
 		)
 		(pin "14"
-			(uuid "f4e60921-4b94-4c91-b795-990ece264ea2")
+			(uuid "f4e60921-4b94-4c91-b795-990ece264ea5")
 		)
 		(pin "3"
-			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a14")
+			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a17")
 		)
 		(pin "11"
-			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb515")
+			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb518")
 		)
 		(pin "6"
-			(uuid "f0391c7d-e599-4237-b388-48ca13183171")
+			(uuid "f0391c7d-e599-4237-b388-48ca13183174")
 		)
 		(pin "1"
-			(uuid "66a03261-65df-4063-bc22-79ed3a2596ac")
+			(uuid "66a03261-65df-4063-bc22-79ed3a2596af")
 		)
 		(pin "5"
-			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c2")
+			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c5")
 		)
 		(pin "10"
-			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc7")
+			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dca")
 		)
 		(pin "13"
-			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c66")
+			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c69")
 		)
 		(pin "12"
-			(uuid "3ce86704-2160-42bb-93ff-64afb9a403ce")
+			(uuid "3ce86704-2160-42bb-93ff-64afb9a403d1")
 		)
 		(pin "4"
-			(uuid "b9334c95-00d3-42fa-974a-7a908da82ab8")
+			(uuid "b9334c95-00d3-42fa-974a-7a908da82abb")
 		)
 		(pin "9"
-			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0b")
+			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0e")
 		)
 		(pin "2"
-			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c70")
+			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c73")
 		)
 		(pin "8"
-			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4b")
+			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4e")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U3")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
@@ -30553,7 +30681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 241.3 90)
 			(hide yes)
 			(show_name no)
@@ -31074,6 +31202,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 491.49 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc5848b1-d333-4a89-8e9b-45a07af6fc07")
+		(property "Reference" "#PWR043"
+			(at 491.49 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 491.49 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 491.49 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 491.49 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 491.49 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b424ba75-0e59-45f4-aaee-4653604d2411")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 342.9 270.51 270)
 		(unit 1)
@@ -31312,7 +31518,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 199.39 0)
-		(unit 1)
+		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31341,7 +31547,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -31375,52 +31581,168 @@
 			)
 		)
 		(pin "1"
-			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa281")
+			(uuid "2b4ed5a7-dedd-49ad-86a0-f433d1dfa285")
 		)
 		(pin "13"
-			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98b6")
+			(uuid "446fc56b-2da1-4f88-aebc-8bfc88dc98ba")
 		)
 		(pin "5"
-			(uuid "5523520b-57ca-497d-bd48-d3decc95757a")
+			(uuid "5523520b-57ca-497d-bd48-d3decc95757e")
 		)
 		(pin "8"
-			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f0")
+			(uuid "d16a11b4-11ae-458a-8d19-43a6905f13f4")
 		)
 		(pin "10"
-			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113b")
+			(uuid "ea165ab0-f4c1-441c-9fe9-e88d8839113f")
 		)
 		(pin "4"
-			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d3")
+			(uuid "fe7e1c50-0e48-42b0-9bd6-98eddfea12d7")
 		)
 		(pin "11"
-			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34c6")
+			(uuid "ec66c0d4-a7c6-4042-b863-8fe7463a34ca")
 		)
 		(pin "14"
-			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a63c")
+			(uuid "04059be8-f25f-4c0a-bf6e-ab7d4228a640")
 		)
 		(pin "3"
-			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f5")
+			(uuid "82ef68cc-f91f-4fff-9c84-32d76ad103f9")
 		)
 		(pin "6"
-			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a79")
+			(uuid "f9065ff7-a026-4eba-bb56-a051e1661a7d")
 		)
 		(pin "9"
-			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1a")
+			(uuid "10d8b82d-4785-4ca8-9840-fef4c494de1e")
 		)
 		(pin "12"
-			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd79")
+			(uuid "ebb1ae9a-0457-4372-a56d-99ed0652dd7d")
 		)
 		(pin "2"
-			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc2044c")
+			(uuid "5c074de7-20f4-4ac7-8ca3-4e094dc20450")
 		)
 		(pin "7"
-			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd4")
+			(uuid "efccb3b2-5af1-46bf-b420-c13710a68dd8")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U1")
-					(unit 1)
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Comparator:LM339")
+		(at 410.21 302.26 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbb8800d-4ffd-49a9-8cb5-007114f9c614")
+		(property "Reference" "U2"
+			(at 410.21 292.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM339"
+			(at 410.21 294.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 408.94 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
+			(at 411.48 297.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
+			(at 410.21 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4ddd46dd-75ed-4a26-b664-491250327d25")
+		)
+		(pin "5"
+			(uuid "caf6ef39-8b6f-4e6d-912f-78c3eb13bab4")
+		)
+		(pin "1"
+			(uuid "32c28bf7-22b6-490a-be89-ef3f6b387dc3")
+		)
+		(pin "6"
+			(uuid "e35c571c-5fd9-443c-9d2f-08edbf00e2fc")
+		)
+		(pin "7"
+			(uuid "c93f99d0-9c01-44f6-9f68-e2a8e88f3c6f")
+		)
+		(pin "4"
+			(uuid "e5a55cd9-7cbb-4d89-aa14-57820cc46656")
+		)
+		(pin "10"
+			(uuid "1ac75bd9-6f71-4627-bc15-2b96ba7ef69a")
+		)
+		(pin "11"
+			(uuid "c2cb2fd0-83d0-4918-87c0-65709ebe5238")
+		)
+		(pin "13"
+			(uuid "afbbfbad-dd07-4fe6-a26e-9c580f6b72b1")
+		)
+		(pin "3"
+			(uuid "95f5652c-fbd0-42a5-9c85-c58f719f4c58")
+		)
+		(pin "12"
+			(uuid "5ef0cbae-3fac-47b9-b7fe-72a049f2db18")
+		)
+		(pin "14"
+			(uuid "cc885b4e-dc95-44a9-a043-8ec5aa63b997")
+		)
+		(pin "9"
+			(uuid "a18190a0-c617-4bcc-8473-abb553444b9d")
+		)
+		(pin "8"
+			(uuid "60c0e601-b462-4e9f-9acd-29b8aeaa366a")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "U2")
+					(unit 2)
 				)
 			)
 		)
@@ -31974,7 +32296,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 410.21 97.79 0)
-		(unit 1)
+		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31983,7 +32305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d478c2f7-c7fd-4d01-af39-6b27d1e16a94")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 410.21 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32003,7 +32325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
 			(at 408.94 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -32037,59 +32359,59 @@
 			)
 		)
 		(pin "9"
-			(uuid "4ecf66da-9b70-467c-b150-dcfb19620570")
+			(uuid "4ecf66da-9b70-467c-b150-dcfb19620573")
 		)
 		(pin "3"
-			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de873")
+			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de876")
 		)
 		(pin "13"
-			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4ad")
+			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4b0")
 		)
 		(pin "6"
-			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642945")
+			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642948")
 		)
 		(pin "4"
-			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4b")
+			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4e")
 		)
 		(pin "5"
-			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd60")
+			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd63")
 		)
 		(pin "11"
-			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1a")
+			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1d")
 		)
 		(pin "8"
-			(uuid "813d132b-f9a1-4447-90a7-383b869cc887")
+			(uuid "813d132b-f9a1-4447-90a7-383b869cc88a")
 		)
 		(pin "7"
-			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3d")
+			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b40")
 		)
 		(pin "1"
-			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a3")
+			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a6")
 		)
 		(pin "10"
-			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f4")
+			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f7")
 		)
 		(pin "12"
-			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae35")
+			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae38")
 		)
 		(pin "14"
-			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c2e")
+			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c31")
 		)
 		(pin "2"
-			(uuid "1046107f-38d1-40ee-aa77-4479f357060b")
+			(uuid "1046107f-38d1-40ee-aa77-4479f357060e")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U2")
-					(unit 1)
+					(reference "U3")
+					(unit 3)
 				)
 			)
 		)
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 490.22 300.99 270)
+		(at 482.6 77.47 270)
 		(unit 5)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32100,7 +32422,7 @@
 		(fields_autoplaced yes)
 		(uuid "d52c3096-11fb-4081-97a6-e303d5e52c90")
 		(property "Reference" "U3"
-			(at 490.22 293.37 90)
+			(at 482.6 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32110,7 +32432,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 490.22 295.91 90)
+			(at 482.6 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32119,8 +32441,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 492.76 299.72 0)
+		(property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm"
+			(at 485.14 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32131,7 +32453,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 495.3 302.26 0)
+			(at 487.68 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32142,7 +32464,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 490.22 300.99 0)
+			(at 482.6 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32153,168 +32475,52 @@
 			)
 		)
 		(pin "7"
-			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d3")
+			(uuid "568add8d-dd66-45e1-9d7c-0e02e14355d7")
 		)
 		(pin "14"
-			(uuid "f4e60921-4b94-4c91-b795-990ece264ea2")
+			(uuid "f4e60921-4b94-4c91-b795-990ece264ea6")
 		)
 		(pin "3"
-			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a14")
+			(uuid "8a1fe423-4bb6-49fe-a0bd-8ca5c2ec6a18")
 		)
 		(pin "11"
-			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb515")
+			(uuid "15455196-2b81-4e8d-83e9-3fd0e3feb519")
 		)
 		(pin "6"
-			(uuid "f0391c7d-e599-4237-b388-48ca13183171")
+			(uuid "f0391c7d-e599-4237-b388-48ca13183175")
 		)
 		(pin "1"
-			(uuid "66a03261-65df-4063-bc22-79ed3a2596ac")
+			(uuid "66a03261-65df-4063-bc22-79ed3a2596b0")
 		)
 		(pin "5"
-			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c2")
+			(uuid "3a49810a-83eb-49cc-84b9-d23f1f4912c6")
 		)
 		(pin "10"
-			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dc7")
+			(uuid "f5cc1ef6-be1a-49ce-a7e6-2c030d6e8dcb")
 		)
 		(pin "13"
-			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c66")
+			(uuid "313ea30d-3cc5-4c87-8b4d-c038bbcc4c6a")
 		)
 		(pin "12"
-			(uuid "3ce86704-2160-42bb-93ff-64afb9a403ce")
+			(uuid "3ce86704-2160-42bb-93ff-64afb9a403d2")
 		)
 		(pin "4"
-			(uuid "b9334c95-00d3-42fa-974a-7a908da82ab8")
+			(uuid "b9334c95-00d3-42fa-974a-7a908da82abc")
 		)
 		(pin "9"
-			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0b")
+			(uuid "de5422c7-cc7d-4d84-b6df-7b49215e9a0f")
 		)
 		(pin "2"
-			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c70")
+			(uuid "5fe45158-6f98-4e81-b04a-97d5be6d3c74")
 		)
 		(pin "8"
-			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4b")
+			(uuid "f4feb1f6-1ffa-4bc9-8f0f-0ec62fab4e4f")
 		)
 		(instances
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "U3")
 					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Comparator:LM339")
-		(at 410.21 170.18 0)
-		(unit 4)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dc8690ac-a919-4f86-98d2-2dd61904d90b")
-		(property "Reference" "U2"
-			(at 410.21 160.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM339"
-			(at 410.21 162.56 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 411.48 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 410.21 170.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "9"
-			(uuid "4ecf66da-9b70-467c-b150-dcfb19620570")
-		)
-		(pin "3"
-			(uuid "cdcfcd65-fd4c-4c87-ba37-c625606de873")
-		)
-		(pin "13"
-			(uuid "8a296848-cc0c-4415-a866-76de4fe1d4ad")
-		)
-		(pin "6"
-			(uuid "9bf84bd4-3cdd-4a09-a5de-cbe898642945")
-		)
-		(pin "4"
-			(uuid "0506b9b4-5f1c-4077-a58b-902894eabf4b")
-		)
-		(pin "5"
-			(uuid "3b4de4a1-33ed-4a64-ad6b-4eaa7ddfdd60")
-		)
-		(pin "11"
-			(uuid "14233554-009b-4ce9-a263-47aae4f1ac1a")
-		)
-		(pin "8"
-			(uuid "813d132b-f9a1-4447-90a7-383b869cc887")
-		)
-		(pin "7"
-			(uuid "5890fc4c-d7f0-4a3f-b9d8-9a89de6b4b3d")
-		)
-		(pin "1"
-			(uuid "1d8d2463-ac48-4668-a80b-365c9058b5a3")
-		)
-		(pin "10"
-			(uuid "ef394a3d-1431-4e67-b74f-4c9e42b467f4")
-		)
-		(pin "12"
-			(uuid "71c58740-929e-491d-a5f1-b42e7cc4ae35")
-		)
-		(pin "14"
-			(uuid "193c592f-919f-4b5b-8af1-63cd0ff24c2e")
-		)
-		(pin "2"
-			(uuid "1046107f-38d1-40ee-aa77-4479f357060b")
-		)
-		(instances
-			(project "MipiBoard3"
-				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
-					(reference "U2")
-					(unit 4)
 				)
 			)
 		)
@@ -32433,7 +32639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 400.812 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -33001,7 +33207,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 505.46 298.45 270)
+		(at 492.76 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33012,27 +33218,29 @@
 		(fields_autoplaced yes)
 		(uuid "ec718946-f034-40e5-af2a-56998941759e")
 		(property "Reference" "C3"
-			(at 505.46 290.83 90)
+			(at 496.57 77.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "C"
-			(at 505.46 293.37 90)
+			(at 496.57 80.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 501.65 299.4152 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 493.7252 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33043,7 +33251,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 505.46 298.45 0)
+			(at 492.76 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33054,7 +33262,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 505.46 298.45 0)
+			(at 492.76 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33473,7 +33681,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 505.46 196.85 270)
+		(at 491.49 38.1 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33484,27 +33692,29 @@
 		(fields_autoplaced yes)
 		(uuid "f1988a5b-0178-4408-aa16-d5c14021eb80")
 		(property "Reference" "C2"
-			(at 505.46 189.23 90)
+			(at 495.3 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "C"
-			(at 505.46 191.77 90)
+			(at 495.3 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 501.65 197.8152 0)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 490.5248 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33515,7 +33725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 505.46 196.85 0)
+			(at 491.49 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33526,7 +33736,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 505.46 196.85 0)
+			(at 491.49 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33585,7 +33795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 417.322 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -33628,6 +33838,84 @@
 			(project "MipiBoard3"
 				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
 					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 491.49 43.18 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f31cce62-3ba2-4d27-9416-867d9b713ee8")
+		(property "Reference" "#PWR044"
+			(at 491.49 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 491.49 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 491.49 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 491.49 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 491.49 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74336c17-476d-4c6e-96f2-73b2212d0abf")
+		)
+		(instances
+			(project "MipiBoard3"
+				(path "/f9da8a02-b0ec-448f-8d3c-4253b3f44257"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -33825,7 +34113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 400.812 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -33907,7 +34195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 418.592 266.7 90)
 			(hide yes)
 			(show_name no)
