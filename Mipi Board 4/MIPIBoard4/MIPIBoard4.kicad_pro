@@ -502,7 +502,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MipiBoard3.kicad_pro",
+    "filename": "MIPIBoard4.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -692,18 +692,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "MipiBoard3.kicad_sch",
-        "name": "MipiBoard3",
+        "filename": "MIPIBoard4.kicad_sch",
+        "name": "MIPIBoard4",
         "uuid": "f9da8a02-b0ec-448f-8d3c-4253b3f44257"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U4-9,#PWR46-105,R37-42,C5-10",
     "variants": []
   },
   "sheets": [
     [
       "f9da8a02-b0ec-448f-8d3c-4253b3f44257",
-      "MipiBoard3"
+      "MIPIBoard4"
     ]
   ],
   "text_variables": {},
